@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="120" height="67" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="95">
+ <objectgroup id="2" name="tipsColl">
+  <object id="19" name="operation" x="0" y="1008" width="1920" height="64"/>
+  <object id="54" name="tab" x="1664" y="1024" width="224" height="32"/>
+  <object id="55" name="mouse" x="1360" y="1024" width="224" height="32"/>
+  <object id="67" name="key_Tutorial1" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="69" name="key_Tutorial2" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="70" name="key_Tutorial3" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="71" name="key_Tutorial4" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="72" name="key_Tutorial5" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="73" name="pad_Tutorial1" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="74" name="pad_Tutorial2" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="75" name="pad_Tutorial3" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="76" name="pad_Tutorial4" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="77" name="pad_Tutorial5" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="78" name="smh_Tutorial1" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="79" name="smh_Tutorial2" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="80" name="smh_Tutorial3" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="81" name="smh_Tutorial4" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="82" name="smh_Tutorial5" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="83" name="smh_Tutorial6" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="84" name="smh_Tutorial7" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="85" name="smh_Tutorial8" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="86" name="pad_Tutorial6" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="87" name="pad_Tutorial7" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="88" name="pad_Tutorial8" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="89" name="key_Tutorial6" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="90" name="key_Tutorial7" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="91" name="key_Tutorial8" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="92" name="key_Tutorial0" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="93" name="pad_Tutorial0" x="1280" y="16" width="635.152" height="210.182"/>
+  <object id="94" name="smh_Tutorial0" x="1280" y="16" width="635.152" height="210.182"/>
+ </objectgroup>
+</map>

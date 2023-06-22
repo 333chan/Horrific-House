@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="120" height="67" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="21">
+ <objectgroup id="2" name="cameraColl">
+  <object id="15" name="operation" x="0" y="1008" width="1920" height="64"/>
+  <object id="16" name="flash" x="1376" y="1024" width="160" height="32"/>
+  <object id="20" name="snap" x="832" y="1024" width="160" height="32"/>
+ </objectgroup>
+</map>

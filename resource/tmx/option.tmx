@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="120" height="67" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="103">
+ <objectgroup id="2" name="optionColl">
+  <object id="19" name="operation" x="0" y="1008" width="1920" height="64" visible="0"/>
+  <object id="54" name="tab" x="1664" y="1024" width="224" height="32" visible="0"/>
+  <object id="55" name="mouse" x="1360" y="1024" width="224" height="32" visible="0"/>
+  <object id="68" name="optionTag" x="240" y="128" width="496" height="128" visible="0"/>
+  <object id="69" name="controlTag" x="240" y="320" width="400" height="96" visible="0"/>
+  <object id="70" name="audioTag" x="240" y="448" width="400" height="96" visible="0"/>
+  <object id="79" name="smartphone" x="800" y="720" width="560" height="224"/>
+  <object id="81" name="brightness" x="800" y="208" width="320" height="64" visible="0"/>
+  <object id="82" name="volume" x="800" y="208" width="320" height="64" visible="0"/>
+  <object id="99" name="brightnessAdjustment" x="1216" y="352" width="448" height="32" visible="0"/>
+  <object id="87" name="keyboard" x="800" y="320" width="560" height="224"/>
+  <object id="89" name="titleReturnTag" x="240" y="704" width="400" height="96" visible="0"/>
+  <object id="90" name="returnTag" x="240" y="832" width="400" height="96" visible="0"/>
+  <object id="92" name="graphicTag" x="240" y="576" width="400" height="96" visible="0"/>
+  <object id="93" name="key" x="800" y="208" width="320" height="64"/>
+  <object id="94" name="smp" x="800" y="608" width="320" height="64"/>
+  <object id="97" name="valumeControl" x="1216" y="352" width="448" height="32" visible="0"/>
+  <object id="96" name="masterValume" x="800" y="336" width="320" height="64" visible="0"/>
+  <object id="100" name="screenBrightness" x="800" y="336" width="320" height="64" visible="0"/>
+  <object id="101" name="pad" x="1392" y="208" width="320" height="64"/>
+  <object id="102" name="padImage" x="1392" y="320" width="400" height="624"/>
+ </objectgroup>
+</map>
