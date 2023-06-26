@@ -1,0 +1,22 @@
+■機能一覧
+デバッグ表示ON/OFF        ：Home
+デバッグ表示クリアーON/OFF：Delete
+スロー機能(ゆっくり)：PageDown
+スロー機能(は や く)：PageUp
+一時停止/スロー・一時停止解除：Pause/Break
+バックグラウンド処理有効/無効：BackSpace
+
+■デバッグ表示機能の使い方
+①_DebugDispOut.cppをプロジェクトに追加し、
+　デバッグ命令を呼び出す個所に_DebugDispOut.hをインクルードする
+②ゲームループの戦闘で_dbgStartDraw()を呼び出す。
+③任意の場所で、描画系のデバッグ命令を呼び出す。
+④ScreenFlip()の直前に_dbgDraw()を呼び出す。
+
+
+■デバッグコンソール機能の使い方
+①_DebugConOut.cppをプロジェクトに追加し、
+　デバッグ命令を呼び出す個所に_DebugConOut.hをインクルードする
+②コンソール表示したい内容を任意の個所に記載する。
+　その際に、std::cout()、pritf()もしくはTRACE()を呼び出す。
+
